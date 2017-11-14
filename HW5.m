@@ -1,4 +1,14 @@
 %HW5
+%GB comments:
+1a 70 question asks to output a file in the repository of the mask image. No image provided.
+1b 100 the image produced in your script is not technically correct. You have a mask framing the image that is being treated equally to the cellular masks in the image. 
+1c 70 same issues as 1a. 
+1d 100 same issue has 1b
+2yeast: 100
+2worm: 100
+2bacteria: 100
+2phase: 100 
+Overall: 93
 
 % Note. You can use the code readIlastikFile.m provided in the repository to read the output from
 % ilastik into MATLAB.
